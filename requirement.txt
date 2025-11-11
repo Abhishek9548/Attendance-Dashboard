@@ -7,3 +7,5 @@ psutil
 fpdf2
 av
 streamlit-webrtc
+fdf
+
